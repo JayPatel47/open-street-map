@@ -17,10 +17,6 @@
 // application.cpp
 // Jay Patel
 //
-// University of Illinois at Chicago
-// CS 251: Fall 2021
-// Project #7 - Openstreet Maps
-//
 
 #include <iostream>
 #include <iomanip>  /*setprecision*/
