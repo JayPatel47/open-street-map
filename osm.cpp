@@ -1,10 +1,5 @@
 /*osm.cpp*/
 
-//
-// University of Illinois at Chicago
-// CS 251: Fall 2020
-// Project #7 - Openstreen Maps
-// 
 // References:
 // TinyXML: https://github.com/leethomason/tinyxml2
 // OpenStreetMap: https://www.openstreetmap.org
